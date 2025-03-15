@@ -1,0 +1,89 @@
+///////////////////////////////////////////////////
+//                    外部项目引用列表
+///////////////////////////////////////////////////
+
+AZPEP_BiliBili/ASTv1-SourceCode
+开源协议：Apache-2.0
+仓库链接：https://gitee.com/AZPEP_BiliBili/astv1-source-code
+
+
+dujingning/inicpp
+引用时最后一次commit：040f831
+开源协议：MIT
+仓库链接：https://github.com/dujingning/inicpp
+
+boostorg/boost
+（来自nuget，使用vc-143）
+版本：1.87
+使用模块：filesystem，locale
+开源协议：BSL-1.0 License
+仓库链接：https://github.com/boostorg/boost
+
+kobake/openssl-nuget-vc
+（来自nuget，使用vc-142）
+版本：1.1.0
+开源协议：Apache-2.0
+仓库链接：https://github.com/kobake/openssl-nuget-vc
+
+开源Qt
+版本：6.8.0
+开源协议：GPL3.0 , LGPL3.0
+遵守协议：LGPL 3.0
+链接：qt.io/cn/download
+
+wimlib
+版本：1.14.4
+开源协议：GPL3.0 , LGPL3.0
+遵守协议：LGPL 3.0
+仓库链接：https://wimlib.net/git/wimlib
+
+LzmaSDK
+版本：24.09
+开源协议：（见下）
+LZMA SDK is placed in the public domain.
+Anyone is free to copy, modify, publish, use, compile, sell, or distribute the original LZMA SDK code, either in source code form or as a compiled binary, for any purpose, commercial or non-commercial, and by any means.
+官网地址：https://www.7-zip.org/sdk.html
+
+7z
+版本：24.09
+开源协议：LGPL（LGPL协议版本未知，且使用LGPL许可的部分受到unRAR许可的限制），BSD 3-clause
+遵守协议：LGPL 3.0，unRAR，BSD 3-clause
+官网地址：https://www.7-zip.org/
+
+rikyoz/bit7z
+版本：4.0.9
+开源协议：MPL2.0
+仓库地址：https://github.com/rikyoz/bit7z
+
+dismapi
+版本：10.1.26100.2454
+来源：Windows ADK 10.1.26100.2454
+遵守《Microsoft 软件许可条款》《Microsoft 使用条款》
+
+wimgapi
+版本：10.1.26100.2454
+来源：Windows ADK 10.1.26100.2454
+遵守《Microsoft 软件许可条款》《Microsoft 使用条款》
+
+适用于 Windows 11 的 Windows PE
+版本：10.0.26100.1
+来源：Windows ADK 10.0.26100.0
+遵守《Microsoft 软件许可条款》《Microsoft 使用条款》
+
+M2TeamArchived/NSudo
+（此项目暂未使用）
+引用时最后一次commit：3536f19
+开源协议：MIT
+仓库链接：https://github.com/M2TeamArchived/NSudo
+
+cpz/WinWMI
+（此项目暂未使用）
+引用时最后一次commit：0914776
+开源协议：MIT
+仓库链接：https://github.com/cpz/WinWMI
+
+winsiderss/systeminformer
+（此项目暂未使用）
+引用时最后一次commit：4eab430
+开源协议：MIT
+开源链接：https://github.com/winsiderss/systeminformer
