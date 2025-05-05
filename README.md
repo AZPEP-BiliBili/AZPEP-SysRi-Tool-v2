@@ -5,7 +5,7 @@
 
 若想获取“AZPEP SysRi Tool 0.0.1.0 Beta”的源代码，请[点击这里跳转](https://gitee.com/AZPEP_BiliBili/astv1-source-code)
 
-当前版本： Beta 0.2.0
+当前版本： Beta 0.3.0
 
 # 配置要求
 
@@ -22,7 +22,7 @@
 &emsp;&emsp;系统盘所在硬盘的主引导记录类型为GPT，电脑中至少存在一个可用的EFI分区 
 
 显卡：支持DirectX11 \
-显示器：分辨率为1024x768及以上 \
+显示器：分辨率为1366x768及以上 \
 操作系统：“Microsoft Windows 10 20H2”及以上版本，强制使用“UEFI+GPT”的方式启动
 
 ## 标准配置
@@ -43,7 +43,7 @@
 
 
 # 鸣谢
-感谢以下网友的鼓励，是我在受挫时重新开始该项目： \
+感谢以下网友的鼓励，使我在受挫时重新开始该项目： \
 [@Windows11娘](https://space.bilibili.com/414666753) \
 [@VirtualHotBar](https://space.bilibili.com/443230923) \
 [@记住你的名字_](https://space.bilibili.com/1601172780) \
