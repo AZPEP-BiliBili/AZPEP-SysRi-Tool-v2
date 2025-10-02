@@ -3,9 +3,10 @@
 
 本仓库是“AZPEP SysRi Tool v2”的软件发布仓库，不存放“AZPEP SysRi Tool v2”的源代码，“AZPEP SysRi Tool v2”为闭源软件！
 
-若想获取“AZPEP SysRi Tool 0.0.1.0 Beta”的源代码，请[点击这里跳转](https://gitee.com/AZPEP_BiliBili/astv1-source-code)
+若想获取“AZPEP SysRi Tool 0.0.1.0 Beta”的源代码，请[点击这里跳转](https://gitee.com/AZPEP_BiliBili/astv1-source-code) \
+若想获取“AZPEP SysRi Tool v2 Beta-0.1.0”的源代码，请[点击这里跳转](https://gitee.com/AZPEP_BiliBili/azpep-sys-ri-tool-beta-0.1.0-source-code)
 
-当前版本： Beta 0.3.0
+当前版本： Beta 0.4.0
 
 # 配置要求
 
@@ -16,10 +17,10 @@
 固件：支持“UEFI 2.3.1”及以上协议 \
 硬盘： \
 &emsp;&emsp;下载位置需要有1GB的空闲空间，系统盘至少有3GB的空闲空间，若安装程序则需安装位置至少2GB的空闲空间\
-&emsp;&emsp;进行“重装系统”操作时，应保证系统分区至少有15GB的空闲空间和至少50GB的总空间 \
+&emsp;&emsp;进行“重装系统”操作时，应保证系统盘至少有15GB的空闲空间和至少50GB的总空间 \
 &emsp;&emsp;使用程序前，挂载的分区数应始终<=20；使用程序时，挂载的分区数应始终<=23 \
 &emsp;&emsp;系统盘未启用加密，系统盘所在的硬盘未启动全盘加密 \
-&emsp;&emsp;系统盘所在硬盘的主引导记录类型为GPT，电脑中至少存在一个可用的EFI分区 
+&emsp;&emsp;系统盘所在硬盘的主引导记录类型为MBR或者GPT，如果为GPT，则电脑中至少存在一个可用的EFI分区 
 
 显卡：支持DirectX11 \
 显示器：分辨率为1366x768及以上 \
